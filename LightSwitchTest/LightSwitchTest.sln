@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{581633EB-B896-402F-8E60-36F3DA191C85}") = "LightSwitchTest", "LightSwitchTest\LightSwitchTest.lsxtproj", "{A3713549-3CCC-45C3-9824-2A2609224628}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LightSwitchTest.Server", "LightSwitchTest\LightSwitchTest.Server\LightSwitchTest.Server.csproj", "{0E281282-1E91-49D8-BC45-443AE988C713}"
+EndProject
+Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "LightSwitchTest.HTMLClient", "LightSwitchTest\LightSwitchTest.HTMLClient\LightSwitchTest.HTMLClient.jsproj", "{84F6044B-B8DB-4581-9AC0-761504B4C300}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3713549-3CCC-45C3-9824-2A2609224628}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3713549-3CCC-45C3-9824-2A2609224628}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3713549-3CCC-45C3-9824-2A2609224628}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3713549-3CCC-45C3-9824-2A2609224628}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E281282-1E91-49D8-BC45-443AE988C713}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E281282-1E91-49D8-BC45-443AE988C713}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E281282-1E91-49D8-BC45-443AE988C713}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E281282-1E91-49D8-BC45-443AE988C713}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84F6044B-B8DB-4581-9AC0-761504B4C300}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84F6044B-B8DB-4581-9AC0-761504B4C300}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84F6044B-B8DB-4581-9AC0-761504B4C300}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84F6044B-B8DB-4581-9AC0-761504B4C300}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
